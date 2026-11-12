@@ -32,8 +32,6 @@ launch a program, run a Python expression — or all of that in a chain.
 - [Platform notes](#platform-notes)
 - [Choosing the serial port](#choosing-the-serial-port)
 - [Troubleshooting](#troubleshooting)
-- [Security notes](#security-notes)
-- [Known limitations and ideas](#known-limitations-and-ideas)
 - [Project layout](#project-layout)
 
 ---
