@@ -1,5 +1,7 @@
 # PoopDeck — a DIY macro pad (Arduino + Python)
 
+<img width="200" height="200" alt="Какашка с клавиатурой PoopDeck" src="https://github.com/user-attachments/assets/d98b0c41-20b5-439f-83db-f3b429b93adf" />
+
 Press a key on a 4×4 keypad and your computer does something: type text, open a link, press a hotkey,
 launch a program, run a Python expression — or all of that in a chain.
 
