@@ -21,6 +21,7 @@ def run_command(line: str) -> None:
 		case "commands":
 			for l in KEYS[line][1]:
 				run_command(l)
+				time.sleep(0.1)
 		case "open_link":
 			webbrowser.open(KEYS[line][1])
 		case "keyboard_paste":
@@ -41,6 +42,7 @@ def run_command(line: str) -> None:
 		case "keyboard_line":
 			for key in KEYS[line][1]:
 				keyboard.send(key)
+				time.sleep(0.1)
 		case "python":
 			eval(KEYS[line][1])
 		case "system":
